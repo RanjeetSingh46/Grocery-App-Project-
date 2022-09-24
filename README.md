@@ -1,10 +1,12 @@
 # Build a Grocery-App-Project-2
 # SPSGP-82311-Virtual-Internship---Android-Application-Development-Using-Kotlin)
+[---https://github.com/smartinternz02/SPSGP-82311-Virtual-Internship---Android-Application-Development-Using-Kotlin---]
 
 Name: [Ranjeet Singh](https://github.com/RanjeetSingh46)
 
-
 [Grocery Demo link] (https://drive.google.com/file/d/1z9WfL05s6KidSaPkcD27NpPlZhTA0Afi/view?usp=drivesdk)
+
+Project Doc - https://workdrive.zohoexternal.com/writer/open/1ma93690bfc21306044ff8302e37bb604de92?authId=%7B%22linkId%22%3A%225k2wApa8ToC-LYmlU%22%7D
 <p>
 
 As we can't remember everything, users frequently forget to buy the things they want to buy. However, with the assistance of this app, you can make a list of the groceries you intend to buy so that you don't forget anything.

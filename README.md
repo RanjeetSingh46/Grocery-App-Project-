@@ -1,6 +1,6 @@
 # Build a Grocery-App-Project-2
 # SPSGP-82311-Virtual-Internship---Android-Application-Development-Using-Kotlin)
-[---https://github.com/smartinternz02/SPSGP-82311-Virtual-Internship---Android-Application-Development-Using-Kotlin---]
+[ https://github.com/smartinternz02/SPSGP-82311-Virtual-Internship---Android-Application-Development-Using-Kotlin ]
 
 Name: [Ranjeet Singh](https://github.com/RanjeetSingh46)
 
